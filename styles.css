@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    background-color: lightgray;
+    border-radius: 4px;
+    margin: 30px 8px;
+    text-align: center;
+}
+
+#title{
+    font-size: 4em;
+}
+
+#img-div{
+    background-color: white;
+    margin: 40px 15px;
+}
+
+#image{
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+#tribute-info ul{
+    max-width: 550px;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#tribute-info ul li{
+    margin: 16px 0;
+}
+
+h4{
+    font-size: 1.5em;
+}
