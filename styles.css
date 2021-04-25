@@ -8,19 +8,33 @@ body{
 }
 
 #main{
-    background-color: lightgray;
+    background-color: rgb(230, 227, 227);
     border-radius: 4px;
     margin: 30px 8px;
     text-align: center;
 }
 
 #title{
+    display: block;
+    margin: 30px;
     font-size: 4em;
 }
 
+#main p{
+    margin-top: 10px;
+}
+
 #img-div{
-    background-color: white;
+    background-color: black;
     margin: 40px 15px;
+    padding: 20px;
+    color: white;
+}
+
+#img-caption{
+    display: block;
+    margin: 10px;
+    margin-bottom: 10px;
 }
 
 #image{
